@@ -57,7 +57,13 @@ The dataset is collected from **Kaggle** and preprocessed to handle categorical 
 ---
 
 ## 📊 output
-
+<img width="693" height="673" alt="Image" src="https://github.com/user-attachments/assets/73d876f9-e1db-4e7c-8477-be555c5fb557" />
+<img width="1048" height="851" alt="Image" src="https://github.com/user-attachments/assets/9eca86b9-09f0-499a-a64b-1b18c8bf6db6" />
+<img width="881" height="874" alt="Image" src="https://github.com/user-attachments/assets/9d1bb597-ca8b-430b-a6c5-a07fa2be9ca8" />
+<img width="526" height="399" alt="Image" src="https://github.com/user-attachments/assets/d6138e25-643e-4176-b3f8-02863fb25ed3" />
+<img width="264" height="175" alt="Image" src="https://github.com/user-attachments/assets/3096f416-6eb9-4ac7-b52a-f33fa2bb9311" />
+<img width="415" height="173" alt="Image" src="https://github.com/user-attachments/assets/a65a45b7-8356-4b4c-ace6-6f1fc9677474" />
+<img width="707" height="847" alt="Image" src="https://github.com/user-attachments/assets/a3c7eca9-185c-45a8-889c-1cede664fcb1" />
 
 ---
 
